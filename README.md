@@ -1,2 +1,2 @@
 # Web-Photoshop
-Photoshop Website using HTML &amp; CSS
+Photoshop Website using HTML & CSS

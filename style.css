@@ -1,0 +1,55 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .header-section{
+    background-color: rgb(4, 196, 196);
+  }
+  
+  header{
+    height: 50vh;
+    background: url(https://timelinecovers.pro/facebook-cover/download/nikon-camera-facebook-cover.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .header-text{
+    font-size: 10vh;
+    font-style: oblique;
+    margin-bottom: auto;
+    margin-top: auto;
+    /* text-shadow: 5px 5px 10px limegreen; */
+    text-shadow: 2px 2px 2px rgb(60, 65, 67), 2px 2px 25px rgb(215, 215, 231), 0 3px 5px rgb(183, 183, 255);
+    padding: 200px;
+  }
+  
+  .welcome-section {
+    background-color: rgb(249, 197, 178);
+  }
+  
+  .collection-section{
+    background-color: rgb(132, 184, 226);
+  }
+  
+  .pricing-section{
+    background-color: rgb(255, 183, 250);
+  }
+  
+  .carousel-item{
+    height: 50vh;
+  }
+  
+  .overlay-text {
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px rgb(60, 65, 67), 2px 2px 25px rgb(113, 113, 121), 0 3px 5px rgb(18, 18, 19);
+  }
+  
+  .card-holder1 {
+    box-shadow: 7px 18px 50px #555;
+  }
+  
+  .copyright-link {
+    text-decoration: none;
+  }
